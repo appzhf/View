@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+	<string name="text">文字在画布移动</string>
+	<string name="map">绘制多种图形</string>
+	<string name="animation">绘制动画1</string>
+	<string name="animation1">绘制动画2</string>
+	<string name="move">移动动画</string>
+	<string name="timpact1">动画撞击1</string>
+	<string name="timpact2">动画撞击2</string>
+	<string name="timpact3">动画撞击3</string>
+</resources>
